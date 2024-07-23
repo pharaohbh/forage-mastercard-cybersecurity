@@ -1,0 +1,20 @@
+From: MasterCard Staff Rewards
+To: employee@email.com
+Subject: Urgent: Action Required for Your Reward Cards Account
+
+Body:
+
+Dear <insert name>,
+
+We have detected suspicious activity in your MasterCard Rewards account. To secure your account and prevent any unauthorized access, immediate action is required!
+
+Click the link below to reset your password within the next hour to avoid your account being temporarily locked:
+
+Reset Password Now
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+MasterCard IT Team
+
+Confidential: This message is intended for the recipient only and may contain confidential information. Unauthorized use or disclosure of this message is prohibited.
